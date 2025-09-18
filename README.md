@@ -26,9 +26,8 @@ KeshavSoft-task/
 ├── contact.html       # Contact page
 ├── pricing.html       # Pricing page
 ├── album.html         # Album page
-├── assets/            # Assets (images, CSS, JS)
+├── asset/            # Assets (images, CSS)
 │   ├── css/
-│   ├── js/
 │   └── images/
 └── README.md          # Documentation
 ```
