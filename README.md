@@ -35,9 +35,6 @@ KeshavSoft-task/
 
 ## 🖼️ Image Placeholders
 
-Each page includes a dedicated section for images.  
-**You can add your images later in the following locations:**
-
 - `asset/images/Home.png` – Home page
 - `asset/images/About.png` – About page
 - `asset/images/Home.png` – Contact page
@@ -62,7 +59,7 @@ No build steps required—just open the HTML files directly.
 
 [GitHub Pages Live Link](https://raushan1-kumar.github.io/KeshavSoft-Task/index.html)
 
-> Replace `https://github.com/Raushan1-kumar` with your actual GitHub username after publishing.
+> `https://github.com/Raushan1-kumar` 
 
 ## 👤 Author
 
